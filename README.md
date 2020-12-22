@@ -1,16 +1,40 @@
-### Hi there 👋
+### Heya <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> i am Subhasmita
 
-<!--
-**SubhasmitaSw/SubhasmitaSw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/subhasmita-swain-a369a11aa/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="https://twitter.com/subh117x">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="mailto:subhasmitaswain232@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<br />
+<br />
+<!--<a href="http://dev.to/">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a> -->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://dev.to/subh117x">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Subhasmita Swain's DEV Profile" height="200" width="200" align="left">
+</a> 
+
+![Subhasmita's github stats](https://github-readme-stats.vercel.app/api?username=SubhasmitaSw&count_private=true&show_icons=true&hide_border=true)
+
+<!--![](https://raw.githubusercontent.com/Ask-Subhasmita/Ask-Subhasmita/27dd9a8e6d55abfb5929ddb2158e6c666a271d5b/cover_pic.png)-->
+<img align="right" alt="GIF" height="300px" src="https://github.com/Ask-Subhasmita/Ask-Subhasmita/blob/master/gifs/animation_500_ke4cgngp.gif" />
+
+- 🔭 I’m currently working on problem solving skills.
+- 🌱 I’m currently learning Deep Learning and DevOps.
+- 👯 I’m looking to collaborate on Hackathon, projects and community building.
+- 🤔 I’m looking for help with Containerizing Applications.
+- 💬 Ask me about anything, i'll try my best to help :hand:
+- 😄 Pronouns: She/Her/Hers
+- ⚡ Fun fact: I'm a painter, a pianist, a writer and a milkshake lover :alien:
+<br/>
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ask-Subhasmita&layout=compact&langs_count=10)](https://github.com/Ask-Subhasmita/github-readme-stats)-->
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ask-Subhasmita.Ask-Subhasmita)
