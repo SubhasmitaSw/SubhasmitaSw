@@ -21,9 +21,10 @@
 </a> 
 
 ![Subhasmita's github stats](https://github-readme-stats.vercel.app/api?username=SubhasmitaSw&count_private=true&show_icons=true&hide_border=true)
+<br/>
 
-<!--![](https://raw.githubusercontent.com/Ask-Subhasmita/Ask-Subhasmita/27dd9a8e6d55abfb5929ddb2158e6c666a271d5b/cover_pic.png)-->
-<img align="right" alt="GIF" height="300px" src="https://github.com/Ask-Subhasmita/Ask-Subhasmita/blob/master/gifs/animation_500_ke4cgngp.gif" />
+<img align="right" alt="GIF" height="300px" src="19Jq.gif">
+<br/>
 
 - 🔭 I’m currently working on problem solving skills.
 - 🌱 I’m currently learning Deep Learning and DevOps.
