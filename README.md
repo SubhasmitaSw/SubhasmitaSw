@@ -32,7 +32,7 @@
 - 🤔 I’m looking for help with Containerizing Applications.
 - 💬 Ask me about anything, i'll try my best to help :hand:
 - 😄 Pronouns: She/Her/Hers
-- ⚡ Fun fact: I'm a painter, a pianist, a writer and a milkshake lover :alien:
+- ⚡ Fun fact: I'm a painter, a writer and a milkshake lover :alien:
 <br/>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ask-Subhasmita&layout=compact&langs_count=10)](https://github.com/Ask-Subhasmita/github-readme-stats)-->
