@@ -37,5 +37,7 @@
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ask-Subhasmita&layout=compact&langs_count=10)](https://github.com/Ask-Subhasmita/github-readme-stats)-->
 
+<img align="right" alt="GIF" height="300px" src="Dino_non-birthday_version.gif">
+<br/>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ask-Subhasmita.Ask-Subhasmita)
