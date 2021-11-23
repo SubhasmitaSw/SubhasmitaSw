@@ -20,7 +20,7 @@
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Subhasmita Swain's DEV Profile" height="200" width="200" align="left">
 </a> 
 
-![Subhasmita's github stats](https://github-readme-stats.vercel.app/api?username=SubhasmitaSw&count_private=true&show_icons=true&hide_border=true)
+![Subhasmita's github stats](https://github-readme-stats.vercel.app/api?username=SubhasmitaSw&count_private=true&show_icons=true&hide_border=true&theme=github_dark)
 <br/>
 
 <img align="right" alt="GIF" height="300px" src="19Jq.gif">
@@ -42,7 +42,7 @@
 
 <div align="center">
   <h3>Watch my contribution graph get eaten by snake 🐍</h3>
-  <img src="https://github.com/SubhasmitaSw/SubhasmitaSw/blob/output/github-contribution-grid-snake.gif" />
+  <img src="https://github.com/SubhasmitaSw/SubhasmitaSw/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
 
