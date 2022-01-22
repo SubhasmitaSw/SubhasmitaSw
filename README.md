@@ -1,4 +1,4 @@
-### Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I am Subhasmita
+### Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Subhasmita
 
 <a href="https://www.linkedin.com/in/subhasmita-swain-a369a11aa/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
@@ -16,13 +16,6 @@
 </a> -->
 
 
-<a href="https://dev.to/subh117x">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Subhasmita Swain's DEV Profile" height="200" width="200" align="left">
-</a> 
-
-![Subhasmita's github stats](https://github-readme-stats.vercel.app/api?username=SubhasmitaSw&count_private=true&show_icons=true&hide_border=true&theme=github_dark)
-<br/>
-
 <img align="right" alt="GIF" height="300px" src="19Jq.gif">
 <br/>
 
@@ -33,6 +26,10 @@
 - 💬 Ask me about anything, i'll try my best to help :hand:
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I'm a painter, a writer and a milkshake lover :alien:
+<br/>
+
+
+![Subhasmita's github stats](https://github-readme-stats.vercel.app/api?username=SubhasmitaSw&count_private=true&show_icons=true&hide_border=true&theme=github_dark)
 <br/>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ask-Subhasmita&layout=compact&langs_count=10)](https://github.com/Ask-Subhasmita/github-readme-stats)-->
