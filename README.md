@@ -20,12 +20,11 @@
 <br/>
 
 - 🔭 I’m currently working on problem solving skills.
-- 🌱 I’m currently learning Deep Learning and DevOps.
-- 👯 I’m looking to collaborate on Hackathon, projects and community building.
-- 🤔 I’m looking for help with Containerizing Applications.
+- 🌱 I’m currently building a twitter bot that enhances opportunity visibility.
+- 🤔 I’m looking for help with meditation.
 - 💬 Ask me about anything, i'll try my best to help :hand:
-- 😄 Pronouns: She/Her/Hers
-- ⚡ Fun fact: I'm a painter, a writer and a milkshake lover :alien:
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I sketch, write unparalleled theories and binge watch Netflix in my free time :alien:
 <br/>
 
 
