@@ -1,4 +1,4 @@
-### Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Subhasmita
+### Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm <a href="https://subhasmitasw.github.io/">Subhasmita.</a>
 
 <a href="https://www.linkedin.com/in/subhasmita-swain-a369a11aa/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
@@ -9,32 +9,26 @@
 <a href="mailto:subhasmitaswain232@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+<a href="https://www.instagram.com/subhasmitasig/"> 
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+ </a>
+ <a href=""> 
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
+ </a>
 <br />
-<br />
-<!--<a href="http://dev.to/">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a> -->
-
 
 <img align="right" alt="GIF" height="300px" src="19Jq.gif">
 <br/>
 
-- 🔭 I’m currently working on problem solving skills.
+- 🔭 I’m currently working on problem solving & monitoring.
 - 🌱 I’m currently building a twitter bot that enhances opportunity visibility.
-- 🤔 I’m looking for help with meditation.
-- 💬 Ask me about anything, i'll try my best to help :hand:
+- 🤔 I’m looking for help with research in ML.
+- 💬 Ask me about ML & DevOps.:hand:
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I sketch, write unparalleled theories and binge watch Netflix in my free time :alien:
-<br/>
-
 
 ![Subhasmita's github stats](https://github-readme-stats.vercel.app/api?username=SubhasmitaSw&count_private=true&show_icons=true&hide_border=true&theme=github_dark)
 <br/>
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ask-Subhasmita&layout=compact&langs_count=10)](https://github.com/Ask-Subhasmita/github-readme-stats)-->
-
-<!--<img align="right" alt="GIF" height="300px" src="Dino_non-birthday_version.gif">
-<br/> -->
 
 <div align="center">
   <h3>Watch my contribution graph get eaten by snake 🐍</h3>
