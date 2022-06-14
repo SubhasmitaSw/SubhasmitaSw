@@ -20,21 +20,23 @@
 <img align="right" alt="GIF" height="300px" src="19Jq.gif">
 <br/>
 
-- 🔭 I’m currently working on problem solving & monitoring.
+- 🔭 I’m currently working @outreachy & @cncf.
 - 🌱 I’m currently building a twitter bot that enhances opportunity visibility.
 - 🤔 I’m looking for help with research in ML.
 - 💬 Ask me about ML & DevOps.:hand:
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I sketch, write unparalleled theories and binge watch Netflix in my free time :alien:
+- ⚡ Fun fact: I sketch, write unparalleled theories and binge watch action-anime in my free time :alien:
 
 ![Subhasmita's github stats](https://github-readme-stats.vercel.app/api?username=SubhasmitaSw&count_private=true&show_icons=true&hide_border=true&theme=github_dark)
 <br/>
 
+<!--
 <div align="center">
   <h3>Watch my contribution graph get eaten by snake 🐍</h3>
   <img src="https://github.com/SubhasmitaSw/SubhasmitaSw/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
+-->
 
 <br> 
 
